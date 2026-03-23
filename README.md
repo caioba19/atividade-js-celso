@@ -22,4 +22,8 @@ Exercícios introdutórios cobrindo os primeiros conceitos da linguagem JavaScri
 | 12 | Antecessor e sucessor | Operadores `+` e `-` |
 
 ---
-Feito por caio vinicius
+## 👨‍💻 Autor
+
+**Caio Vinicius**  
+Estudante de Análise e Desenvolvimento de Sistemas — Centro Universitário Jorge Amado  
+GitHub: [@caioba19](https://github.com/caioba19)
